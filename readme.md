@@ -7,7 +7,6 @@ Jonathan Giles is a principal software engineer and Java architect at Microsoft,
 ## Images
 ![Jonathan sporting his Microsoft shirt](jonathan-headshot.jpg)
 ![Jonathan presenting a keynote at QCon in Shanghai, China](jonathan-speaking-1.jpg)
-![Jonathan presenting a keynote at QCon in Shanghai, China](jonathan-speaking-2.jpg)
 ![Jonathan presenting a keynote at QCon in Shanghai, China](jonathan-speaking-3.jpg)
 ![Jonathan presenting a keynote at QCon in Shanghai, China](jonathan-speaking-4.jpg)
-![Jonathan presenting at JavaZone in Oslo, Norway](jonathan-speaking-5.jpg)
+![Jonathan presenting at JavaZone in Oslo, Norway](jonathan-speaking-javazone.jpg)
